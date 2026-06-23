@@ -207,3 +207,8 @@ This repository serves as:
 ## 📜 Acknowledgement
 
 The exercises and learning materials are based on the official **Cognizant Digital Nurture 5.0 Java Full Stack Engineer (Java FSE) Upskilling Program** curriculum.
+Reference: https://github.com/seshadrimr/Digital-Nurture-JavaFSE
+
+Author
+Niket Mishra
+SuperSet ID: 7719752
